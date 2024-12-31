@@ -1,0 +1,4 @@
+baseURL = 'https://krishnaj.space'
+languageCode = 'en-us'
+title = "Krishna's Scratchpad on the Internet"
+theme = "nostyle"

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Krishna&#39;s Webpage</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Krishna&#39;s Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2024 19:39:18 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aboutme</title>
+      <link>http://localhost:1313/about/aboutme/</link>
+      <pubDate>Tue, 31 Dec 2024 19:39:18 +0530</pubDate>
+      <guid>http://localhost:1313/about/aboutme/</guid>
+      <description>&lt;h1 id=&#34;emacs&#34;&gt;Emacs&lt;/h1&gt;</description>
+      <content:encoded><![CDATA[<h1 id="emacs">Emacs</h1>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
